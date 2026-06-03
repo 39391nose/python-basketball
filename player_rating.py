@@ -20,3 +20,18 @@ elif assist >= 5:
     print("タイプ: プレイメーカー🎯")
 else:
     print("タイプ: スコアラー🏀")
+if three_rate >= 40:
+
+    print("コンプ: コン・カニップル")
+
+elif assist >= 7:
+
+    print("コンプ: クリス・ポール")
+
+elif point >= 20:
+
+    print("コンプ: アンソニー・エドワーズ")
+
+else:
+
+    print("コンプ: ロールプレイヤー")
